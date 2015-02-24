@@ -1,0 +1,3 @@
+get SM repo
+replace public/sample_ext/extension.cpp, extension.h, smsdk_config.h with those from our GH repo (MessageBroadcastExtension)
+try make
